@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\DNS\\Desktop\\Git works\\App C#\\Example_Console_1\\Example_Console_1.csproj": {}
+    "C:\\Users\\DNS\\Desktop\\Git works\\App C#\\Example_Console_3_Summ\\Example_Console_3(Summ).csproj": {}
   },
   "projects": {
-    "c:\\Users\\DNS\\Desktop\\Git works\\App C#\\Example_Console_1\\Example_Console_1.csproj": {
+    "C:\\Users\\DNS\\Desktop\\Git works\\App C#\\Example_Console_3_Summ\\Example_Console_3(Summ).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\DNS\\Desktop\\Git works\\App C#\\Example_Console_1\\Example_Console_1.csproj",
-        "projectName": "Example_Console_1",
-        "projectPath": "c:\\Users\\DNS\\Desktop\\Git works\\App C#\\Example_Console_1\\Example_Console_1.csproj",
+        "projectUniqueName": "C:\\Users\\DNS\\Desktop\\Git works\\App C#\\Example_Console_3_Summ\\Example_Console_3(Summ).csproj",
+        "projectName": "Example_Console_3(Summ)",
+        "projectPath": "C:\\Users\\DNS\\Desktop\\Git works\\App C#\\Example_Console_3_Summ\\Example_Console_3(Summ).csproj",
         "packagesPath": "C:\\Users\\DNS\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\DNS\\Desktop\\Git works\\App C#\\Example_Console_1\\obj\\",
+        "outputPath": "C:\\Users\\DNS\\Desktop\\Git works\\App C#\\Example_Console_3_Summ\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DNS\\AppData\\Roaming\\NuGet\\NuGet.Config"
